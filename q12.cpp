@@ -1,3 +1,4 @@
+// find maximun number among 3 numbers
 #include<iostream>
 using namespace std;
 int main()
