@@ -1,4 +1,4 @@
-check wheather no is even or odd
+// check wheather no is even or odd
 #include<iostream>
 using namespace std;
 int main()
