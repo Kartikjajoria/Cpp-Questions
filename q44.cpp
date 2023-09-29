@@ -1,3 +1,4 @@
+// calculate sales
 #include <iostream>
 using namespace std;
 class publication{
