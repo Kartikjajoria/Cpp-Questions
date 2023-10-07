@@ -1,4 +1,4 @@
-// display frac and unteger part of a number
+// display frac and integer part of a number
 #include<iostream>
 using namespace std;
 int main()
