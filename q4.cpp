@@ -1,3 +1,4 @@
+// display frac and unteger part of a number
 #include<iostream>
 using namespace std;
 int main()
