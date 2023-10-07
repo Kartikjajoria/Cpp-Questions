@@ -7,12 +7,12 @@ class demo
 	public:
 		demo()
 		{
-			cout << "This is a constructor...."<<endl;
+			cout << "This is a constructor...."<<endl;   //constructor called
 		}
     ~demo()
      {
-	    cout << "This is a destructor...."<< endl;
-	    cout<<"Name: kartik jajoria"<<endl<<"Enrollment no: 08129802021"<<endl;
+	    cout << "This is a destructor...."<< endl;    //destructor calles
+	    cout<<"Name: kartik jajoria"<<endl<<"Enrollment no: 08129802021"<<endl;   
      }
 };
 
