@@ -1,4 +1,4 @@
-// dispacement
+// displacement
 #include<iostream>
 using namespace std;
 int main()
