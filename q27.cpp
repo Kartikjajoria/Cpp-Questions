@@ -1,4 +1,4 @@
-// parameteric constructo
+// parameteric constructor
 #include <bits/stdc++.h>
 using namespace std;
 class Constructor
