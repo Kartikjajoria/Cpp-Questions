@@ -1,4 +1,4 @@
-// factorial
+//  calculate factorial
 #include<iostream>
 using namespace std;
 int main()
