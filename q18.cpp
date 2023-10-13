@@ -14,7 +14,7 @@ int main()
 			cout<<"Enter name, employee id, age, address of a employee\n";
 			cin>>name>>employee_id>>age>>address;		
 		}
-		void showdata()
+		void showdata()                             //function
 		{
 			cout<<"Name = "<<name<<endl;
 			cout<<"Id = "<<employee_id<<endl;
@@ -23,7 +23,7 @@ int main()
 		}
 	};
 	employee e1;
-	e1.getdata();
+	e1.getdata();    //objects
 	e1.showdata();
 }
 
